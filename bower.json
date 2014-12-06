@@ -1,0 +1,32 @@
+{
+  "name": "blank-css-lists",
+  "version": "0.1.0",
+  "description": "lists styling for blank-css",
+  "main": "lists.scss",
+  "homepage": "https://github.com/ahmedelgabri/blank-lists",
+  "authors": [
+    "Ahmed El Gabri <ahmed@gabri.me>"
+  ],
+  "keywords": [
+    "scss",
+    "sass",
+    "css",
+    "bem",
+    "oocss",
+    "blank",
+    "blank-css",
+    "lists"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "blank-css-config": "~0.1.0",
+    "blank-css-rem": "~0.1.0"
+  }
+}
